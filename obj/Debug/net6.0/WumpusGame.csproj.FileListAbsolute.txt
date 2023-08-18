@@ -1,0 +1,15 @@
+/home/gabrielrichard/atividades/WumpusGame/bin/Debug/net6.0/WumpusGame
+/home/gabrielrichard/atividades/WumpusGame/bin/Debug/net6.0/WumpusGame.deps.json
+/home/gabrielrichard/atividades/WumpusGame/bin/Debug/net6.0/WumpusGame.runtimeconfig.json
+/home/gabrielrichard/atividades/WumpusGame/bin/Debug/net6.0/WumpusGame.dll
+/home/gabrielrichard/atividades/WumpusGame/bin/Debug/net6.0/ref/WumpusGame.dll
+/home/gabrielrichard/atividades/WumpusGame/bin/Debug/net6.0/WumpusGame.pdb
+/home/gabrielrichard/atividades/WumpusGame/obj/Debug/net6.0/WumpusGame.csproj.AssemblyReference.cache
+/home/gabrielrichard/atividades/WumpusGame/obj/Debug/net6.0/WumpusGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielrichard/atividades/WumpusGame/obj/Debug/net6.0/WumpusGame.AssemblyInfoInputs.cache
+/home/gabrielrichard/atividades/WumpusGame/obj/Debug/net6.0/WumpusGame.AssemblyInfo.cs
+/home/gabrielrichard/atividades/WumpusGame/obj/Debug/net6.0/WumpusGame.csproj.CoreCompileInputs.cache
+/home/gabrielrichard/atividades/WumpusGame/obj/Debug/net6.0/WumpusGame.dll
+/home/gabrielrichard/atividades/WumpusGame/obj/Debug/net6.0/ref/WumpusGame.dll
+/home/gabrielrichard/atividades/WumpusGame/obj/Debug/net6.0/WumpusGame.pdb
+/home/gabrielrichard/atividades/WumpusGame/obj/Debug/net6.0/WumpusGame.genruntimeconfig.cache
